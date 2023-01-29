@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Katie, and I'm passionate about all things tech! I'm currently working on getting certifications in🐧Linux,✔️ AWS, 🅰️Azure,🐍 Python and more! I post about my projects in tech on medium.
 
-<!-- Hi there! My name is Katie, and I'm passionate about all things tech! I'm currently working on getting certifications in🐧Linux,✔️ AWS, 🅰️Azure and more! -->
-
-Find out more about me & feel free to connect with me here:
-
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+Find out more about me & feel free to connect with me on Medium and LinkedIn:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Katie%20Sheridan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katherine-sheridan-84b11394/s/)]([https://www.linkedin.com/in/katherine-sheridan-84b11394//](https://www.linkedin.com/in/katherine-sheridan-84b11394/))
 [![Medium Badge](https://img.shields.io/badge/Katie%20Sheridan-12100E?style=flat-square&logo=medium&logoColor=white&link=https://https://medium.com/@johnsonkatie71)](https://medium.com/@johnsonkatie71)
