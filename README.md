@@ -6,7 +6,7 @@ Find out more about me & feel free to connect with me on Medium and LinkedIn:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Katie%20Sheridan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/katherine-sheridan-84b11394/s/)](https://www.linkedin.com/in/katherine-sheridan-84b11394/)
 [![Medium Badge](https://img.shields.io/badge/Katie%20Sheridan-12100E?style=flat-square&logo=medium&logoColor=white&link=https://https://medium.com/@johnsonkatie71)](https://medium.com/@johnsonkatie71)
-[![Gmail Badge](https://img.shields.io/badge/-Katie%20Sheridan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnsonk758@gmail.com)](mailto:johnsonk758@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Katie%20Sheridan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:@johnsonk758@gmail.com)](mailto:@johnsonk758@gmail.com)
 
 ## ⚡ Technologies
 
