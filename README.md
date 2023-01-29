@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+<!-- Hi there! My name is Katie, and I'm passionate about all things tech! I'm currently working on getting certifications in🐧Linux,✔️ AWS, 🅰️Azure and more! -->
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Katie%20Sheridan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katherine-sheridan-84b11394/s/)]([https://www.linkedin.com/in/katherine-sheridan-84b11394//](https://www.linkedin.com/in/katherine-sheridan-84b11394/))
+[![Medium Badge](https://img.shields.io/badge/Katie%20Sheridan-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
+[![Gmail Badge](https://img.shields.io/badge/-Katie@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:johnsonk758@gmail.com)
 
 ## ⚡ Technologies
 
