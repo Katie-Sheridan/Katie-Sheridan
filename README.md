@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Katie, and I'm passionate about all things tech! 
+### Hi there! 👋 My name is Katie, and I'm passionate about all things tech! 
 I'm currently working on getting certifications in🐧Linux,✔️ AWS, 🅰️Azure,🐍 Python and more! 
-Please check out my projects in tech on Medium.😎💪💻
+Please check out my projects 📚 in tech on Medium.😎💪💻
 
 Find out more about me & feel free to connect with me on Medium and LinkedIn:
 
